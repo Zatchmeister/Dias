@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 595583bf99e1b7845934781cfe910acb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - platformObject: {fileID: 100000, guid: 35e7f0ae56331544a8ac825b5c1e3324, type: 2}
+  - boundaryCube: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
